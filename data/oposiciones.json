@@ -1,4 +1,16 @@
 {
-  "lastUpdated": "2026-09-04T18:12:00+02:00",
+  "lastUpdated": "2026-09-05T11:32:45.211699+00:00",
+  "sources": [
+    {
+      "name": "DOGV",
+      "url": "https://dogv.gva.es/",
+      "status": "pending-source-integration"
+    },
+    {
+      "name": "BOP de Valencia",
+      "url": "https://bop.dival.es/",
+      "status": "pending-source-integration"
+    }
+  ],
   "oposiciones": []
 }
